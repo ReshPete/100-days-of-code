@@ -6,5 +6,5 @@ The log of my #100DaysOfCode challenge. Started on [Sept 24, 2020].
 
 ### R1D1 
 Started on a simple online live editor - with HTML, CSS and JS.
-- Link toproject: https://github.com/ReshPete/simple-online-live-editor
+- Link to project: https://github.com/ReshPete/simple-online-live-editor
 
