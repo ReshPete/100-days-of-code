@@ -4,7 +4,9 @@
 ### *I will code for at least an hour every day for the next 100 days.*
 
 #### Start Date
-June 25th, 2016. [PUT YOUR DATE HERE]
+My Day end of 24th September 2020.
+[Will usually be coding every night before sleep]
+Hoping to finish on Jan 1, 2021!
 
 ## Additional Rules
 1. I will tweet about my progress every day -> using the hashtag #100DaysOfCode
