@@ -1,4 +1,4 @@
-# #100DaysOfCode Log - Round 1 - [Rae Elize]
+# #100DaysOfCode Log - Round 1 - [Rae]
 
 The log of my #100DaysOfCode challenge. Started on [Sept 24, 2020].
 
