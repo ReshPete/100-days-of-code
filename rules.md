@@ -5,7 +5,9 @@
 
 #### Start Date
 My Day end of 24th September 2020.
-[Will usually be coding every night before sleep]
+
+[Will usually be coding every night before sleep].
+
 Hoping to finish on Jan 1, 2021!
 
 ## Additional Rules
